@@ -1,6 +1,7 @@
 # 📊 InstaDash - Instagram Competitors Analytics
 
 A real-time Instagram analytics dashboard that tracks your performance against competitors using automated data scraping and AI-powered insights.
+Live Link: [Vercel]([https://instadash-six.vercel.app/])
 
 ![Dashboard Preview](docs/dashboard.png)
 
