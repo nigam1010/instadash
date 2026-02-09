@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# Data dumps (generated during debugging)
+*_data.json
+apify_*.json
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

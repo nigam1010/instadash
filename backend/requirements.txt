@@ -1,0 +1,10 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+motor
+beanie
+python-dotenv
+httpx
+pymongo[srv]
+dnspython
+requests
